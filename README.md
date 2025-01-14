@@ -1,0 +1,2 @@
+This repository contains a notebook file (demo.ipynb) that can be run on Google Colab to train a model for classifying food images based on food-101-tiny images with EfficientNetB2.
+Demo available at Hugging Space: https://huggingface.co/spaces/rapianyo/foodvision_food101tiny
